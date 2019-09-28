@@ -1,6 +1,8 @@
 # Tugas1_Netpro_1301188566
 
-## nomor 1
+## Soal Nomer 1
+
+![image](https://user-images.githubusercontent.com/54670695/65815797-29d17580-e21e-11e9-9f4c-620fc02e2a85.png)
 
 Finite State Machine adalah model logis untuk perilaku sistem yang kondisi internal berubah dengan terjadinya peristiwa yang ditentukan
 Server:
@@ -20,26 +22,32 @@ Client:
  - Client menerima FIN lalu mengirimkan ACK ke TIME WAIT
  - Timeout, maka koneksi berakhir(CLOSED)
 
-## nomor 2
+## Soal Nomer 2
+
+![image](https://user-images.githubusercontent.com/54670695/65815857-bc721480-e21e-11e9-89a6-f52c761df535.png)
+
 Melakukan perulangan for sesuai dengan nilai yang sudah ditentukan dengan nilai awal i=1. Didalam perulangan for yang pertama mencetak nilai i selama i<=3, maka hasilnya akan 1 2 3. Didalam perulangan for yang kedua mencetak nilai j selama j<=9 dimana nilai awal j adalah 7, maka hasilnya adalah 7 8 9.  Perulangan for yang ketiga adalah loop forever yang mencetak string “loop”. 
 
 Pada program if/else akan melakukan pengecekan pada suatu kondisi. Jika kondisi tersebut terpenuhi maka akan melakukan aksi dari kondisi tersebut.
 
-## nomor 3
+## Soal Nomer 3
 Array adalah sekumpulan data yang sama, yang disimpan dalam sebuah variabel. Array memiliki kapasitas yang nilainya ditentukan pada saat pembuatan, menjadikan elemen/data yang disimpan di array tersebut jumlahnya tidak boleh melebihi yang sudah dialokasikan. Default nilai tiap elemen array pada awalnya tergantung dari tipe datanya. Jika int maka tiap element zero value-nya adalah 0, jika bool maka false, dan seterusnya. Setiap elemen array memiliki indeks berupa angka yang merepresentasikan posisi urutan elemen tersebut. Indeks array dimulai dari 0.
 
 Function merupakan sekumpulan pernyataan yang jika namanya dipanggil maka ia akan dijalankan. Didalam program, function memanggil func plus dan func plusPlus. Func plus mengembalikan nilai a+b, dan func plusPlus mengembalikan nilai a+b+c.
-## nomor 4
+
+## Soal Nomer 4
 Struct merupakan instruksi untuk membuat tipe data bentukan. Struct mempunyai berbagai macam variabel yang tipe datanya berbeda. Saat pemanggilan struct jika terdapat variabel yang tidak terdefinisi nilainya, maka nilai tersebut akan menjadi 0 atau nil
 
 Method merupakan fungsi yang memiliki akses terhadap properti struck. Untuk memanggilnya harus diawali dengan variabel struct. 
 
-## nomor 5
+## Soal Nomer 5
 Multiple Return adalah fungsi yang dapat mengembalikan lebih dari 1 nilai
 
 Commamd line merupakan interaksi dengan system operasi atau perangkat lunak computer dengan cara mengetik perintah untuk menjalankannya.
 
-## nomor 6
+## Soal Nomer 6
 Didalam program handlefunc berfungsi untuk menentukan route/konten ketika akan diakses, dan listenAndServe berfungsi untuk menentukan port yang digunakan ketika ingin mengakses
+
+## Soal Nomer 7
 
 *catatan : 
