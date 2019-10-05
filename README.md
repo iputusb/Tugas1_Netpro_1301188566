@@ -69,4 +69,6 @@ Didalam program handlefunc berfungsi untuk menentukan route/konten ketika akan d
 
 ## Soal Nomer 7
 
-*catatan : 
+[![SS-7.png](https://i.postimg.cc/3Rb0W9zZ/SS-7.png)](https://postimg.cc/62npmVW7)
+
+Untuk nomer 7, pertama kita harus membuat file config.json sebagai konfigurasinya. Didalam file config.json mempunyai tipe data server dan juga memiliki atribut berupa port. Fungsi http didalam GO adalah untuk mengambil nomer port dari config.json dengan menggunakan viper(sintaks viper.GetString("server.port")), yang nanti akan digunakan untuk mengembalikan nilai port dari tipe data server yang ada didalam konfig.json
